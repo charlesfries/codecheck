@@ -1,4 +1,4 @@
 # codecheck
 Password verification tool for iOS
 
-- Charles Fries
+By Charles Fries
