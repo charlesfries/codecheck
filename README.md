@@ -10,7 +10,7 @@ Password verification tool for iOS. Codecheck compares inputted string to common
 
 ## License
 
-This project is free to copy and use.
+This code is distributed under the terms and conditions of the MIT license.
 
 ## Author
 
